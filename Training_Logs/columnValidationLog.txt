@@ -1,0 +1,8 @@
+2021-06-07/13:50:43		Column Length Validation Started!!
+2021-06-07/13:50:44		Invalid Column Length for the file!! File moved to Bad Raw Folder :: wafer_16012020_134553.csv
+2021-06-07/13:50:44		Invalid Column Length for the file!! File moved to Bad Raw Folder :: wafer_17012020_125434.csv
+2021-06-07/13:50:44		Column Length Validation Completed!!
+2021-06-09/15:53:29		Column Length Validation Started!!
+2021-06-09/15:53:30		Invalid Column Length for the file!! File moved to Bad Raw Folder :: wafer_16012020_134553.csv
+2021-06-09/15:53:31		Invalid Column Length for the file!! File moved to Bad Raw Folder :: wafer_17012020_125434.csv
+2021-06-09/15:53:31		Column Length Validation Completed!!
