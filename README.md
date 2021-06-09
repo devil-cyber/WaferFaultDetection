@@ -44,7 +44,7 @@ To build a classification methodology to predict the quality of electronic wafer
 ![](https://github.com/devil-cyber/asset/raw/main/img1.jpg)
 
 **Data Description**
-[Dataset link](http://archive.ics.uci.edu/ml/datasets/SECOM)
+[Dataset link](https://github.com/devil-cyber/WaferFaultDetection/blob/master/Training_FileFromDB/InputFile.csv)
 
 The electronic wafer dataset consist of 592 column
 
