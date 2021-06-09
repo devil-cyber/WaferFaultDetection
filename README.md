@@ -22,6 +22,7 @@
 - AUC Score
 
 ## How to used:)
+**Note - This is a complete pipeline so training and prediction will take time depending on your system so be patience**
 ```sh
 # clone this project in local system
 # create a virtual enivornment 
